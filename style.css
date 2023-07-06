@@ -35,6 +35,6 @@ body {
 transform: rotate(-180deg);
 }
 
-.answer.active {
+/*.answer.active {
     max-height: 100px;
-}
+}*/
